@@ -1,2 +1,2 @@
-# DS-lab
+dslab
 Data structure laboratory 
